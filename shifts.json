@@ -1,0 +1,75 @@
+{
+  "shifts": {
+    "morning": {
+      "rows": [
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ],
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ],
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ]
+      ]
+    },
+    "noon": {
+      "rows": [
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ],
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ],
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ],
+        [
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null},
+          {"slot": null}
+        ]
+      ]
+    }
+  }
+}
